@@ -1,0 +1,14 @@
+.users {
+    background-color: lightgray;
+    color: black;
+}
+
+.activePage {
+    color: red;
+}
+
+.page {
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}

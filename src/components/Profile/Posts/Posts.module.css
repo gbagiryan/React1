@@ -1,0 +1,7 @@
+.posts{
+    grid-area: posts;
+    background-color: #475477;
+    color: white;
+
+    margin: 10px;
+}

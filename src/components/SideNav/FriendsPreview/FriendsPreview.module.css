@@ -1,0 +1,14 @@
+.friend{
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+.avatar {
+    border-radius: 30px;
+    height: 60px;
+    width: 60px;
+}
+
+.name {
+    color: black;
+}

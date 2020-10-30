@@ -1,0 +1,6 @@
+.info {
+    grid-area: info;
+    background-color: cornflowerblue;
+    height: 400px;
+    margin: 10px;
+}
